@@ -133,7 +133,7 @@ streaming-content-analytics/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/streaming-content-analytics.git
+git clone https://github.com/sharanit/streaming-content-analytics.git
 cd streaming-content-analytics
 ```
 
@@ -279,8 +279,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/sharanit)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/sharanvora)
 
 ## 🙏 Acknowledgments
 

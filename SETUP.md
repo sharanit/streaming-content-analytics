@@ -54,10 +54,10 @@ Complete guide to setting up the Streaming Content Analytics project on your loc
 
 ```bash
 # Using HTTPS
-git clone https://github.com/yourusername/streaming-content-analytics.git
+git clone https://github.com/sharanit/streaming-content-analytics.git
 
 # Or using SSH
-git clone git@github.com:yourusername/streaming-content-analytics.git
+git clone git@github.com:sharanit/streaming-content-analytics.git
 
 # Navigate to project directory
 cd streaming-content-analytics
@@ -400,8 +400,8 @@ jupyter contrib nbextension install --user
 cp .gitignore.example .gitignore
 
 # Configure Git
-git config --local user.name "Your Name"
-git config --local user.email "your.email@example.com"
+git config --local user.name "Shran"
+git config --local user.email "haranvoracareers@gmail.com"
 ```
 
 ---
